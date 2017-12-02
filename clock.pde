@@ -67,7 +67,7 @@ arc(0,0,490,490,PI/1.94,PI*0.98);
    ellipse(0,0,20,20);
  
  theta +=(2*PI)/60; beta +=(2*PI)/(60*60); gamma +=(2*PI)/(60*60*12);
- frameRate(100);
+ frameRate(1);
  
  
  
